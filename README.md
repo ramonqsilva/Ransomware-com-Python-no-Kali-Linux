@@ -1,5 +1,6 @@
-# Ransomware com Python no Kali Linux
-Cripitográfia de arquivos com AES (Advanced Encryption Standard)
+# Ransomware com Python no Kali Linux <img src="https://ugc.production.linktr.ee/yL9O0oLsQoqoRXR5tUEV_ixjoRCv2RNqoYutL?io=true&size=avatar-v3_0" width="25px">
+Criptografia de arquivos com AES (Advanced Encryption Standard)
+
 
 <h3>Ferramentas Utilizadas:</h3>
 
